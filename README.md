@@ -7,9 +7,9 @@
 
 - 🌱 I’m currently learning **Machine Learning, Deep Learning**
 
-- 👨‍💻 All of my projects are available at [https://www.novypro.com/profile_projects/rashid](https://www.novypro.com/profile_projects/rashid)
+- 👨‍💻 All of my projects are available in my [Github](https://github.com/Rashid9226), and dashboards at [Novypro](https://www.novypro.com/profile_projects/rashid)
 
-- 💬 Ask me about **Data cleaning, Data analysis, Data Visualizations, Model Creation, Machine Learning**
+- 💬 Ask me about **Data cleaning, Data analysis, Data Visualizations, Model Building, Machine Learning, Deep Learning**
 
 - 📫 How to reach me **muhammedrashid7274@gmail.com, www.linkedin.com/in/muhammed-rashid01**
 
